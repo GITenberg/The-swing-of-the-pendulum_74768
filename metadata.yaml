@@ -1,5 +1,8 @@
 _repo: The-swing-of-the-pendulum_74768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74768-h/images/cover.jpg
 creator:
   author:
     agent_name: Spadoni, Adriana
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57636'
     url: http://www.gutenberg.org/2009/agents/57636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74768#The-swing-of-the-pendulum
 gutenberg_issued: '2024-11-20'
 gutenberg_type: Text
 identifiers:
